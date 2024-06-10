@@ -1,6 +1,8 @@
 Feature: Visualizar lista de envíos
 
-Como Developer, quiero implementar un RESTful API para almacenar los envíos pertenecientes a un usuario, incluyendo, la dirección, fecha de entrega, detalles, estado de envío, para que este pueda visualizarlos posteriormente.
+Como Developer, quiero implementar un RESTful API para almacenar los envíos pertenecientes a un usuario, 
+incluyendo, la dirección, fecha de entrega, detalles, estado de envío, para que este pueda visualizarlos 
+posteriormente.
 
 Scenario: Crear y gestionar envíos
 Given que soy un Developer
