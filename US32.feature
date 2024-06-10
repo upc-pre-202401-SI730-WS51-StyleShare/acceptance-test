@@ -1,6 +1,8 @@
 Feature: Realizar alquiler de prendas
 
-Como Developer, quiero implementar un RESTful API para registrar los alquileres realizados por los usuarios considerando los datos como el productoid o carritoid, estado del alquiler, información del envío, para mantener un registro de alquiler.
+Como Developer, quiero implementar un RESTful API para registrar los alquileres realizados por los usuarios 
+considerando los datos como el productoid o carritoid, estado del alquiler, información del envío, para mantener 
+un registro de alquiler.
 
 Scenario: Alquiler de prendas
 Given que soy un Developer
