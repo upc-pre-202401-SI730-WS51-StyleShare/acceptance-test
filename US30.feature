@@ -1,6 +1,8 @@
 Feature: Visualizar todas mis publicaciones
 
-Como Developer, quiero implementar un RESTful API para almacenar todas las publicaciones que el usuario ha publicado, incluyendo el nombre de la publicación, precio, descripción, comentarios, estados, para que el usuario pueda hacer un seguimiento de su publicación.
+Como Developer, quiero implementar un RESTful API para almacenar todas las publicaciones que el usuario ha publicado,
+incluyendo el nombre de la publicación, precio, descripción, comentarios, estados, para que el usuario pueda hacer un 
+seguimiento de su publicación.
 
 Scenario: Visualizar todas las publicaciones del usuario
 Given que soy un Developer
