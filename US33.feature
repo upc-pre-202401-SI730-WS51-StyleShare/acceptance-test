@@ -1,6 +1,7 @@
 Feature: Ver todas las categorías
 
-Como Developer, quiero implementar un RESTful API para almacenar las categorías disponibles en la aplicación, considerando datos como identificador y nombre de la categoría para registrar todas las categorías.
+Como Developer, quiero implementar un RESTful API para almacenar las categorías disponibles en la aplicación,
+considerando datos como identificador y nombre de la categoría para registrar todas las categorías.
 
 Scenario: Crear categorías
 Given que soy un Developer
