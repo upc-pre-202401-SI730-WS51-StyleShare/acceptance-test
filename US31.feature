@@ -1,6 +1,9 @@
 Feature: Ver detalles de la prenda
 
-Como Developer, quiero implementar una funcionalidad que permita a los usuarios ver información detallada sobre una prenda específica que desean alquilar. Esto incluye la creación de una vista detallada en la interfaz de usuario, la implementación de endpoints en el backend para recuperar esta información y asegurar que la base de datos almacene todos los detalles necesarios.
+Como Developer, quiero implementar una funcionalidad que permita a los usuarios ver información detallada
+sobre una prenda específica que desean alquilar. Esto incluye la creación de una vista detallada en la interfaz 
+de usuario, la implementación de endpoints en el backend para recuperar esta información y asegurar que la base
+de datos almacene todos los detalles necesarios.
 
 Scenario: Ver detalles específicos de una prenda
 Given que soy un Developer
